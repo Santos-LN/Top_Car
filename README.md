@@ -46,7 +46,10 @@ TopCar/
 - ✅ Consolidar conhecimento em análise de dados e BI  
 - ✅ Criar um projeto completo e organizado para o portfólio  
 - ✅ Simular um cenário de negócio com base em dados reais e fictícios  
-- ✅ Aplicar práticas de ETL, modelagem e visualização  
+- ✅ Aplicar práticas de ETL, modelagem e visualização
+
+## Link de projeto no Power Bi
+🔗https://abrir.link/QVBzV
 
 ## 🚀 Como Rodar o Projeto
 
