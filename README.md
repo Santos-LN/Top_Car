@@ -49,7 +49,7 @@ TopCar/
 - ✅ Aplicar práticas de ETL, modelagem e visualização
 
 ## Link de projeto no Power Bi
-🔗https://abrir.link/QVBzV
+🔗https:  https://shre.ink/5mxw
 
 ## 🚀 Como Rodar o Projeto
 
